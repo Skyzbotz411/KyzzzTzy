@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "username": "kyzz",
+      "password": "1",
+      "userId": "8401927724",
+      "tokens": ["8150675914:AAH92mZXQx0SQx6FbOsWXtno4dc5jhEMzB8"],
+      "status": "active",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "lastLogin": null
+    }
+  ]
+}
